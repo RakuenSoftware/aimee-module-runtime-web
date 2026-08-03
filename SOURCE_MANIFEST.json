@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "module": "runtime-web",
+  "classification": "optional",
+  "execution": "process",
+  "placements": [
+    "server"
+  ],
+  "principal_class": 1,
+  "principal_ref": 23,
+  "stages": [
+    {
+      "id": 1,
+      "name": "runtime-web",
+      "event_kind": 9985
+    }
+  ],
+  "source_sha256": "18b060b42c04657b1b708ebb1b2be669697bdeab4240a6c9236561fc618026e4",
+  "owned_files": [
+    "src/modules/runtime-web/module.yaml"
+  ]
+}
